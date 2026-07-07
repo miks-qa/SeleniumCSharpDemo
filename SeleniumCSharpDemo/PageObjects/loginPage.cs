@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using OpenQA.Selenium;
 
-namespace SeleniumCSharpDemo.Pages
+namespace SeleniumCSharp.Pages
 {
     public class loginPage
     {

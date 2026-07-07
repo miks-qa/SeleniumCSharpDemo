@@ -1,9 +1,9 @@
 ﻿using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
-using SeleniumCSharpDemo.Pages;
+using SeleniumCSharp.Pages;
 
-namespace SeleniumCSharpDemo
+namespace SeleniumCSharp
 {
     [TestFixture]
     public class loginTests
